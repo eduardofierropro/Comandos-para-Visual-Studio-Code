@@ -1,0 +1,279 @@
+@charset "UTF-8";
+/*
+    Estilos generales para que las etiquetas no contengan propiedades
+    que nos estorben y en todos los navegadores se vean correctamente
+*/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  vertical-align: baseline;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+}
+
+video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center center;
+     object-position: center center;
+}
+
+audio {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+p a {
+  display: inline;
+}
+
+li {
+  list-style-type: none;
+}
+
+table, tr, td {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font: normal normal normal 100%/140% Fakt Pro Medium, "Roboto", sans-serif;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  color: #181818;
+  background: #e7e7e7;
+  /* font-smooth: always;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  color: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+form input, form textarea, form select {
+  font: normal normal normal 100%/140% Fakt Pro Medium, "Roboto", sans-serif;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+  background-color: transparent;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  display: block;
+}
+
+.contenedora {
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 5px solid #bfbfbf;
+}
+
+.hija {
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 5px solid black;
+  font-size: 2em;
+  font-weight: bold;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row nowrap;
+          flex-flow: row nowrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+/* Estilos básicos para el vídeo */
+.container , .item{
+  border: 5px solid;
+  border-radius: 1em;
+}
+.container{
+  margin:2em;
+  border-color: lightgray;
+}
+.item{
+  padding:1em;
+  border-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Position: Static (No tiene referencia) */
+.container {
+  width: 20rem;
+  min-height: 20rem;  
+  position: static;
+  
+}
+.item {
+  width: 7rem;
+  min-height: 7rem;
+  position: static;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Position: Relative (La referencia es SU BORDE) */
+.container {
+  width: 20rem;
+  min-height: 20rem;  
+
+
+  
+}
+.item {
+  width: 7rem;
+  min-height: 7rem;
+
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+    Position: Absolute (La referencia es BORDE de CONTENEDORA)
+    * Sólo si la contenedora es de flujo impuesto
+*/
+.container {
+  width: 20rem;
+  height: initial;
+  min-height: initial;
+  margin:0;
+}
+.item {
+  width: 7rem;
+  min-height: 7rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Position: fixed (La referencia es BORDE VIEWPORT) */
+/* .container {
+  width: 20rem;
+  height: 20rem;  
+}
+.item {
+  width: 7rem;
+  min-height: 7rem;
+}
+ */
+
+
+
+
+
+
+/* Position: sticky (La referencia COMBINADA) */
+.container {
+  width: 20rem;
+  height: 20rem;  
+}
+.item {
+  width: 7rem;
+  min-height: 7rem;
+}
+
