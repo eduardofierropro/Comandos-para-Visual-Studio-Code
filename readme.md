@@ -3,7 +3,7 @@
 En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar todos los comandos y mejorar como programadora o programador.
 
 ## ⌨️ Tabla de teclas
-| Comando | Descripción |
+| Tecla | Nombre de la tecla |
 |---------|-------------|
 | ⇧  | Mayus |
 | ⌘  | Comando / CMD |
@@ -18,21 +18,23 @@ En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar to
 | ⌘ + ⬆️⬇️ | Comienzo y al final del documento|
 | ⌥ + ⬅️➡️  | Movernos entre "palabras" |
 | ⌥ + ⬆️⬇️  | Muevo esa línea en la dirección de la flecha|
-| ⌘ + ⬅️➡️  + ⇧  | Selección desde el comienzo al final de esa línea |
-| ⌘ + ⬆️⬇️ + ⇧  | Selección hasta el comienzo o el final del documento |
-| ⌥ + ⬅️➡️  + ⇧  | Selección "palabras"  |
-| ⌥ + ⬆️⬇️  + ⇧  | Copiar esa línea en la dirección de la flecha |
-| ⌘ + D | Seleccionar en otras líneas la palabra que he seleccionado |
+| ⌘ + ⇧ + ⬅️➡️ | Selección desde el comienzo al final de esa línea |
+| ⌘ + ⇧ + ⬆️⬇️  | Selección hasta el comienzo o el final del documento |
+| ⌥ + ⇧ + ⬅️➡️   | Selección "palabras"  |
+| ⌥ + ⇧ + ⬆️⬇️   | Copiar esa línea en la dirección de la flecha |
+| ⌘ + D | Seleccionar en otras líneas la selección previa |
 | ⌥ + Click | Poner varios cursores |
 | ⌥ + Doble click | Seleccionar palabras sueltas |
 | ⌘ + ⌥ + ⬆️⬇️  | Poner varios cursores buscando la misma posición |
+| Tabulador  | Tabular hacia la derecha |
+| ⇧ + Tabulador  | Tabular hacia la izquierda |
 | ⌘ + A  | Seleccionar Todo |
 | Tecla ESC  | Deseleccionar pulsamos siempre ESC |
 | ⌘ + x  | Cortar la selección |
 | ⌘ + c  | Copiar la selección |
 | ⌘ + v  | Pegar la selección |
-| ⌘ + ⌥ + 7  | Comentamos en línea |
-| ⌘ + ⌥ + A  | Comentamos en bloque |
+| ⌘ + ⇧ + 7  | Comentario rápido |
+| ⌥ + ⇧ + A  | Iniciamos comentario |
 
 ## ⌨️ Tabla con todos los comandos en Windows
 
@@ -48,30 +50,29 @@ En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar to
 | Ctrl + Fin + ⇧  | Selección hasta el final del documento |
 | Ctrl + ⬅️➡️ + ⇧ | Seleccionar "palabras"  |
 | Alt + ⬆️⬇️ + ⇧  | Copiamos esa línea en la dirección de la flecha |
-
-| ¿? | Descripción |
-|---------|-------------|
 | Control + D  | Seleccionamos algo en el documento |
-| Pulsar Control + D  | Seleccionar en otras líneas la palabra que he seleccionado |
+| Control Pulsado + D  | Seleccionar en otras líneas la palabra que he seleccionado |
 | Alt + click  | Poner varios cursores |
 | Alt + Doble click  | Seleccionar palabras sueltas |
 | Ctrl + Alt + ⬆️⬇️  | Poner varios cursores buscando la misma posición |
-| Ctrl + E  | Seleccionar Todo |
+| Ctrl + A  | Seleccionar Todo |
 | ESC  | Deseleccionar |
 | Control + x  | Cortar la selección |
 | Control + c  | Copiar la selección |
 | Control + v  | Pegar la selección |
 | Control + ç  | Comentamos en línea |
-| Control + Mayus + A  | Comentamos en bloque |
+| Control + Mayus + A  | Iniciamos comentario |
+
+
 
 ## 🔴 Vídeos relacionados en Youtube 
-
-* [Playlist Completa](https://www.youtube.com/playlist?list=PLJpymL0goBgETNW1I1rmuTUl-yoaRDUe5)
-* [Comandos para Mac](XXXXX)
-* [Comandos para Windows](XXXXX)
-* [Comandos aplicados en HTML](XXXXX)
-* [Comandos aplicados en CSS](XXXXX)
-* [Comandos aplicados en Javascript](XXXXX)
+* [Playlist Completa](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)
+* [Comandos en Mac](https://youtu.be/ufBr475JrIE)
+* [Comandos en Windows](Próximamente)
+* [Comandos aplicados a HTML y CSS](Próximamente)
+* [Programa más rápido con Prepros](https://youtu.be/tArtLYlq9ws)
+* [Otros comandos para programar más rápido](https://youtu.be/LrZuZZ5ycKw)
+* [Consejos para programar más rápido](https://youtu.be/t73718VMScg)
 
 ## Autor ✒️
 
