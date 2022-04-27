@@ -72,7 +72,7 @@ En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar to
 * [Playlist Completa](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)
 * [Comandos en Mac](https://youtu.be/ufBr475JrIE)
 * [Comandos en Windows](https://youtu.be/8OYifC0O87Q)
-* [Comandos aplicados a HTML y CSS](https://youtu.be/1n3urx71kN4)
+* [Comandos aplicados a HTML y CSS](https://youtu.be/sw99Ve-MogQ)
 * [Programa más rápido con Prepros](https://youtu.be/tArtLYlq9ws)
 * [Otros comandos para programar más rápido](https://youtu.be/LrZuZZ5ycKw)
 * [Consejos para programar más rápido](https://youtu.be/t73718VMScg)
