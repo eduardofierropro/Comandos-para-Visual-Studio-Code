@@ -1,6 +1,10 @@
+![Imagen del proyecto](https://github.com/eduardofierropro/Comandos-para-Visual-Studio-Code/blob/main/assets/home1.png)
+
 # Comandos para Visual Studio para PROGRAMAR más RÁPIDO
 
 En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar todos los comandos y mejorar como programadora o programador.
+
+[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=1hDGvWJXzqM)
 
 ## ⌨️ Tabla de teclas
 | Tecla | Nombre de la tecla |
@@ -67,35 +71,35 @@ En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar to
 | Alt + Shift + A  | Iniciamos comentario |
 
 
+## Vídeos y repositorios de otras explicaciones
 
-## 🔴 Vídeos relacionados en Youtube 
-* [Playlist Completa](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)
-* [Comandos en Mac](https://youtu.be/ufBr475JrIE)
-* [Comandos en Windows](https://youtu.be/8OYifC0O87Q)
-* [Comandos aplicados a HTML y CSS](https://youtu.be/sw99Ve-MogQ)
-* [Programa más rápido con Prepros](https://youtu.be/tArtLYlq9ws)
-* [Otros comandos para programar más rápido](https://youtu.be/LrZuZZ5ycKw)
-* [Consejos para programar más rápido](https://youtu.be/t73718VMScg)
+| Nombre | Youtube |
+|--|--|
+|Playtlist completa|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)|
+|Comandos en Mac|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/ufBr475JrIE)|
+|Comandos en Windows|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/8OYifC0O87Q)|
+|Comandos aplicados a HTML y CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/sw99Ve-MogQ)|
+|Programa más rápido con Prepros|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/tArtLYlq9ws)|
+|Otros comandos para programar más rápido|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/LrZuZZ5ycKw)|
+|Consejos para programar más rápido|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/t73718VMScg)|
 
-## Autor ✒️
+## 👨🏻‍🏫 Eduardo Fierro Pro
+ 
+¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
 
-**Eduardo Fierro** - *Documentación y trabajo inicial*
+[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
+[![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/eduardofierropro)
+[![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@eduardofierro.pro?)
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/eduardofierro.pro)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eduardofierropro)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/t4Txush)
+[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/edfierropro)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro)
+[![colaboración](https://img.shields.io/static/v1?label=&message=MIS%20CURSOS&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
 
-* [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
-* [Twitch](https://twitch.tv/eduardofierropro)
-* [TikTok](https://www.tiktok.com/@eduardofierro.pro?)
-* [Github](https://github.com/eduardofierropro)
-* [Instagram](https://instagram.com/eduardofierro.pro)
-* [Twitter](https://twitter.com/edfierropro)
-* [Discord](https://discord.gg/t4Txush)
 
-## Master/Cursos donde sor profesor 📚
-
-Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
-
-👉[http://colaboracion.eduardofierro.pro](http://colaboracion.eduardofierro.pro)
-
-## Licencia 📄
+## 📄 Licencia 
 
 MIT Public License v3.0
 No puede usarse comencialmente
+
