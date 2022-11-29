@@ -101,5 +101,5 @@ En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar to
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
 
