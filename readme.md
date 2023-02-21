@@ -4,7 +4,7 @@
 
 En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar todos los comandos y mejorar como programadora o programador.
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=1hDGvWJXzqM)
+[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)
 
 ## ⌨️ Tabla de teclas
 | Tecla | Nombre de la tecla |
@@ -75,8 +75,8 @@ En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar to
 
 | Nombre | Youtube |
 |--|--|
-|Playtlist completa|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)|
-|Comandos en Mac|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/ufBr475JrIE)|
+|Playlist completa|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75)|
+|Comandos en Mac|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/aUQGxN-uGmI)|
 |Comandos en Windows|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/8OYifC0O87Q)|
 |Comandos aplicados a HTML y CSS|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/sw99Ve-MogQ)|
 |Programa más rápido con Prepros|[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/tArtLYlq9ws)|
