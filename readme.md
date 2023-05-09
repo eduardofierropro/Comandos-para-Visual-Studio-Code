@@ -4,7 +4,7 @@
 
 En este repositorio tienes un ejemplo en HTML y CSS para que puedas practicar todos los comandos y mejorar como programadora o programador.
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)]([https://www.youtube.com/watch?v=tArtLYlq9ws&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75](https://www.youtube.com/watch?v=8OYifC0O87Q&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75&index=1))
+[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=8OYifC0O87Q&list=PLJpymL0goBgHH6Gwt2WGtK1pWwqnZbX75&index=1)
 
 ## ⌨️ Tabla de teclas
 | Tecla | Nombre de la tecla |
